@@ -1,0 +1,17 @@
+.title {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+
+.enter {  
+  margin-top: 350px;
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 1.2rem;
+  font-family: 'Pokemon Solid', sans-serif;
+}
+
+
+  

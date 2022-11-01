@@ -1,0 +1,44 @@
+.pokemonCard{
+  /* background-image: url(../assets/BlueSmoke.gif);
+  background-position: center;
+  background-size: cover; */
+  border-radius: 20px;
+  text-align: center;
+  border-radius: 1em;
+  border: 1px solid transparentize(white, 0.5);
+  box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+  backdrop-filter: blur(14px);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+
+.pokemonCard:hover{
+  box-shadow: 0px 0px 20px black;
+  transition: 0.2s;
+  z-index: auto;
+  transform: scale(1.1)
+}
+
+
+  
+  
+
+.title {
+  letter-spacing: 3px;
+  color: black
+}
+
+.types {
+  letter-spacing: 2px;
+  color: black
+}
+
+.topCard {
+  text-align: center;
+  border-radius: 20px;
+  margin: 5px;
+  box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+  backdrop-filter: blur(14px);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+

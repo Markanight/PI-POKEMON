@@ -1,0 +1,16 @@
+body {
+  /* background-image: url('https://www.xtrafondos.com/wallpapers/pokemon-detective-pikachu-8426.jpg'); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; */
+  color: black;
+  font-family: 'Pokemon Solid', sans-serif;
+  background-color: #fffacd;
+  /* background-color: #2a75bb; */
+
+}
+
+a {
+  text-decoration: none;
+  color: rgb(124, 124, 216);
+}
